@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Skills/1 - Lets Warm Up.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 - Lets Warm Up"
+              "title": "README"
             }
           }
         ],
@@ -233,8 +233,9 @@
   },
   "active": "dfc0130455f4c468",
   "lastOpenFiles": [
-    "plantilla.md",
     "General Skills/1 - Lets Warm Up.md",
+    "git",
+    "plantilla.md",
     "README.md",
     "General Skills/Untitled",
     "General Skills",
