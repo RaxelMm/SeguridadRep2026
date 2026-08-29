@@ -35,6 +35,16 @@
 - PW Crack 2
 - PW Crack 3
 - Serpentine
+- permissions
+- chrono
+- special
+- committee issue
+- time machine
+- blame game
+- collaborative development
+- binary search
+- binhexa
+- ASCII Numbers
 
 
 
