@@ -45,6 +45,12 @@
 - binary search
 - binhexa
 - ASCII Numbers
+- Insp3ct0r
+- where are the robots
+- logon
+- dont-use-client-side
+- picobrowser
+- Client-side-again
 
 
 
