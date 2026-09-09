@@ -51,6 +51,9 @@
 - dont-use-client-side
 - picobrowser
 - Client-side-again
+- GET aHEAD
+- Cookies
+- Scavenger Hunt
 
 
 

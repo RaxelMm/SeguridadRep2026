@@ -22,189 +22,35 @@
             }
           },
           {
-            "id": "28111bb4767ac9a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Skills/8 - plumbling.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "8 - plumbling"
-            }
-          },
-          {
-            "id": "9677b4caa6d3950b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Skills/2 - 2Warm.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2 - 2Warm"
-            }
-          },
-          {
-            "id": "bee07f00fe403ef2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Skills/2 - 2Warm.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2 - 2Warm"
-            }
-          },
-          {
-            "id": "0252d66ab762c43d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Skills/25 - fixme1.py.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "25 - fixme1.py"
-            }
-          },
-          {
-            "id": "92731f0fe0a826a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Skills/32 - chrono.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "32 - chrono"
-            }
-          },
-          {
-            "id": "40cfac019715ee94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "plantilla.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "plantilla"
-            }
-          },
-          {
-            "id": "dfc0130455f4c468",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "b29927f507632f23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "plantilla 1 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "plantilla 1 1"
-            }
-          },
-          {
             "id": "3c0840f88c7b632e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Skills/45 - picobrowser.md",
+                "file": "General Skills/49 - Scavenger Hunt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "45 - picobrowser"
+              "title": "49 - Scavenger Hunt"
             }
           },
           {
-            "id": "ea100dbec4bf0283",
+            "id": "a4c3e457ccc2055a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Skills/45 - picobrowser.md",
+                "file": "General Skills/47 - GET aHEAD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "45 - picobrowser"
-            }
-          },
-          {
-            "id": "77c6ac7e6b5b9c1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Skills/46 - Client-side-again.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "46 - Client-side-again"
-            }
-          },
-          {
-            "id": "3efedca37ec487aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Skills/44 - dont-use-client-side.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "44 - dont-use-client-side"
-            }
-          },
-          {
-            "id": "7c48f93e20c947d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Skills/46 - Client-side-again.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "46 - Client-side-again"
+              "title": "47 - GET aHEAD"
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -371,16 +217,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "7c48f93e20c947d1",
+  "active": "3c0840f88c7b632e",
   "lastOpenFiles": [
+    "General Skills/plantilla 1 1 1 3.md",
+    "General Skills/49 - Scavenger Hunt.md",
+    "General Skills/48 - Cookies.md",
+    "General Skills/47 - GET aHEAD.md",
+    "README.md",
+    "plantilla 1 1.md",
     "General Skills/45 - picobrowser.md",
+    "General Skills/32 - chrono.md",
+    "General Skills/25 - fixme1.py.md",
+    "General Skills/2 - 2Warm.md",
+    "General Skills/8 - plumbling.md",
+    "General Skills/46 - Client-side-again.md",
     "General Skills/44 - dont-use-client-side.md",
     "General Skills/43 - logon.md",
     "General Skills/42 - where are the robots.md",
     "General Skills/41 - Insp3ct0r.md",
-    "README.md",
-    "General Skills/46 - Client-side-again.md",
-    "plantilla 1 1.md",
     "General Skills/40 - ASCII Numbers.md",
     "Welcome.md",
     "General Skills/39 - binhexa.md",
@@ -388,17 +242,9 @@
     "General Skills/37 - collaborative development.md",
     "General Skills/36 - Blame Game.md",
     "General Skills/35 - Time Machine.md",
-    "General Skills/32 - chrono.md",
     "General Skills/33 - special.md",
     "General Skills/34 - committee issue.md",
     "General Skills/31 - permissions.md",
-    "General Skills/30 - Serpentine.md",
-    "General Skills/29 - PW Crack 3.md",
-    "General Skills/28 - PW Crack 2.md",
-    "General Skills/27 - PW Crack 1.md",
-    "General Skills/26 - fixme2.py.md",
-    "General Skills/25 - fixme1.py.md",
-    "General Skills/24 - convertme.py.md",
     "git",
     "General Skills/Untitled",
     "General Skills",
