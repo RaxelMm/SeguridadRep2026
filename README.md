@@ -54,6 +54,9 @@
 - GET aHEAD
 - Cookies
 - Scavenger Hunt
+- Irish-Name-Repo 1
+- More SQLi
+- JaWT Scratchpad
 
 
 

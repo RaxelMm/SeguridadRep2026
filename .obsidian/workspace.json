@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Skills/49 - Scavenger Hunt.md",
+                "file": "General Skills/52 - JaWT Scratchpad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "49 - Scavenger Hunt"
+              "title": "52 - JaWT Scratchpad"
             }
           },
           {
@@ -219,12 +219,16 @@
   },
   "active": "3c0840f88c7b632e",
   "lastOpenFiles": [
-    "General Skills/plantilla 1 1 1 3.md",
+    "plantilla 1 1.md",
+    "General Skills/52 - JaWT Scratchpad.md",
+    "General Skills/51 - More SQLi.md",
     "General Skills/49 - Scavenger Hunt.md",
+    "General Skills/50 - Irish-Name-Repo 1.md",
+    "Welcome.md",
+    "README.md",
+    "General Skills/plantilla 1 1 1 3.md",
     "General Skills/48 - Cookies.md",
     "General Skills/47 - GET aHEAD.md",
-    "README.md",
-    "plantilla 1 1.md",
     "General Skills/45 - picobrowser.md",
     "General Skills/32 - chrono.md",
     "General Skills/25 - fixme1.py.md",
@@ -236,15 +240,11 @@
     "General Skills/42 - where are the robots.md",
     "General Skills/41 - Insp3ct0r.md",
     "General Skills/40 - ASCII Numbers.md",
-    "Welcome.md",
     "General Skills/39 - binhexa.md",
     "General Skills/38 - binary search.md",
     "General Skills/37 - collaborative development.md",
     "General Skills/36 - Blame Game.md",
     "General Skills/35 - Time Machine.md",
-    "General Skills/33 - special.md",
-    "General Skills/34 - committee issue.md",
-    "General Skills/31 - permissions.md",
     "git",
     "General Skills/Untitled",
     "General Skills",
