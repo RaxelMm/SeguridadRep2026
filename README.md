@@ -5,6 +5,7 @@
 + Axel Uriel Marquez Morales
 + axelito200532@gmail.com
 ## General Skills
+
 + Lets Warm Up
 + 2Warm  
 - Warmed Up  
@@ -57,6 +58,10 @@
 - Irish-Name-Repo 1
 - More SQLi
 - JaWT Scratchpad
+- MatchTheRegex
+- SOAP
+- Trickster
+- Most Cookies
 
 
 

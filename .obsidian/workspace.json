@@ -22,31 +22,17 @@
             }
           },
           {
-            "id": "3c0840f88c7b632e",
+            "id": "9b36cb97ff99c499",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Skills/52 - JaWT Scratchpad.md",
+                "file": "General Skills/56 - Most Cookies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "52 - JaWT Scratchpad"
-            }
-          },
-          {
-            "id": "a4c3e457ccc2055a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Skills/47 - GET aHEAD.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "47 - GET aHEAD"
+              "title": "56 - Most Cookies"
             }
           }
         ],
@@ -217,34 +203,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "3c0840f88c7b632e",
+  "active": "9b36cb97ff99c499",
   "lastOpenFiles": [
+    "General Skills/55 - Trickster.md",
+    "General Skills/54 - SOAP.md",
+    "General Skills/53 - MatchTheRegex.md",
+    "General Skills/01 - Lets Warm Up.md",
+    "General Skills/10 - Nice netcat....md",
+    "General Skills/09 - glitch cat.md",
+    "General Skills/08 - plumbling.md",
+    "General Skills/07 - what's a net cat.md",
+    "General Skills/06 - Obedient Cat.md",
+    "General Skills/05 - First Grep.md",
+    "General Skills/04 - Bases.md",
+    "General Skills/03 - Warmed Up.md",
+    "General Skills/02 - 2Warm.md",
+    "README.md",
     "plantilla 1 1.md",
+    "General Skills/56 - Most Cookies.md",
     "General Skills/52 - JaWT Scratchpad.md",
     "General Skills/51 - More SQLi.md",
     "General Skills/49 - Scavenger Hunt.md",
     "General Skills/50 - Irish-Name-Repo 1.md",
     "Welcome.md",
-    "README.md",
     "General Skills/plantilla 1 1 1 3.md",
     "General Skills/48 - Cookies.md",
     "General Skills/47 - GET aHEAD.md",
     "General Skills/45 - picobrowser.md",
     "General Skills/32 - chrono.md",
-    "General Skills/25 - fixme1.py.md",
-    "General Skills/2 - 2Warm.md",
-    "General Skills/8 - plumbling.md",
-    "General Skills/46 - Client-side-again.md",
-    "General Skills/44 - dont-use-client-side.md",
-    "General Skills/43 - logon.md",
-    "General Skills/42 - where are the robots.md",
-    "General Skills/41 - Insp3ct0r.md",
-    "General Skills/40 - ASCII Numbers.md",
-    "General Skills/39 - binhexa.md",
-    "General Skills/38 - binary search.md",
-    "General Skills/37 - collaborative development.md",
-    "General Skills/36 - Blame Game.md",
-    "General Skills/35 - Time Machine.md",
     "git",
     "General Skills/Untitled",
     "General Skills",
