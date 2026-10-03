@@ -82,6 +82,26 @@
 - c0rrupt
 - like1000
 - shark on wire 2
+- dont-you-love-banners
+- flag_shop
+- FANTASY CTF
+- HashingJobApp
+- Python Wrangling
+- Rust fixme 1
+- Rust fixme 2
+- Rust fixme 3
+- SansAlpha
+- Specialer
+- Bookmarklet
+- Cookie Monster Secret Recipe
+- findme
+- head-dump
+- Java Code Analysis!?!
+- n0s4n1ty 1
+- SQL Direct
+- SSTI1
+- SSTI2
+- WebSockFish
 
 
 
