@@ -102,6 +102,11 @@
 - SSTI1
 - SSTI2
 - WebSockFish
+- WebNet0
+- Webnet1
+- Matryoshka doll
+- tunn3l v1s10n
+- MacroHard WeakEdge
 
 
 
