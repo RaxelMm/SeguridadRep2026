@@ -107,6 +107,12 @@
 - Matryoshka doll
 - tunn3l v1s10n
 - MacroHard WeakEdge
+- Milkslap
+- Disk, disk, sleuth!
+- Sleuthkit Intro
+- Sleuthkit Apprentice
+- Operation Orchid
+- Operation Oni
 
 
 
