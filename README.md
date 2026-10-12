@@ -113,6 +113,14 @@
 - Sleuthkit Apprentice
 - Operation Orchid
 - Operation Oni
+- The numbers
+- 13
+- Caesar
+- Easy1
+- la cifra de
+- Tapping
+- waves over lambda 
+- interencdec
 
 
 
