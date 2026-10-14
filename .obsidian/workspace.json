@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Skills/115 - interencdec.md",
+                "file": "General Skills/116 - rsa-pop-quiz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "115 - interencdec"
+              "title": "116 - rsa-pop-quiz"
             }
           }
         ],
@@ -247,6 +247,11 @@
   },
   "active": "d03b9fb17475a899",
   "lastOpenFiles": [
+    "General Skills/115 - interencdec.md",
+    "General Skills/116 - rsa-pop-quiz.md",
+    "README.md",
+    "plantilla 1 1 1.md",
+    "General Skills/014 - Static ain't always noise.md",
     "General Skills/114 - waves over lambda.md",
     "General Skills/113 - Tapping.md",
     "General Skills/112 - la cifra de.md",
@@ -254,9 +259,6 @@
     "General Skills/110 - caesar.md",
     "General Skills/109 - 13.md",
     "General Skills/108 - The numbers.md",
-    "README.md",
-    "plantilla 1 1.md",
-    "General Skills/115 - interencdec.md",
     "General Skills/107 - Operation Oni.md",
     "General Skills/099 - Matryoshka doll.md",
     "General Skills/098 - WebNet1.md",
@@ -271,8 +273,6 @@
     "General Skills/089 - findme.md",
     "General Skills/088 - Cookie Monster Secret Recipe.md",
     "General Skills/087 - Bookmarklet.md",
-    "General Skills/086 - SansAlpha.md",
-    "General Skills/085 - Rust fixme 3.md",
     "git",
     "General Skills/Untitled",
     "General Skills",
