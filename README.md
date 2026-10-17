@@ -121,6 +121,15 @@
 - Tapping
 - waves over lambda 
 - interencdec
+- information
+- St3g0
+- Redaction gone wrong
+- hideme
+- Scan Surprise
+- CanYouSee
+- Secret of the Polyglot
+- RED
+- Ph4nt0m 1ntrud3r
 
 
 
