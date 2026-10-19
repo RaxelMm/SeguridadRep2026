@@ -130,6 +130,10 @@
 - Secret of the Polyglot
 - RED
 - Ph4nt0m 1ntrud3r
+- Mini RSA 
+- Mind your Ps and Qs
+- b00tl3gRSA2
+- b00tl3gRSA3
 
 
 
