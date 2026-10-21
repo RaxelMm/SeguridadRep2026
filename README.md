@@ -134,6 +134,11 @@
 - Mind your Ps and Qs
 - b00tl3gRSA2
 - b00tl3gRSA3
+- Pixelated
+- basic-mod1
+- HideToSee
+- ReadMyCert
+- flags
 
 
 
