@@ -139,6 +139,16 @@
 - HideToSee
 - ReadMyCert
 - flags
+- Crack the Power
+- credstuff
+- EVEN RSA CAN BE BROKEN???
+- hashcrack
+- morse-code
+- rail-fence
+- substitution0
+- substitution1
+- substitution2
+- Vigenere
 
 
 

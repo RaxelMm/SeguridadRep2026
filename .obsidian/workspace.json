@@ -69,16 +69,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Skills/134 - Flags.md",
+                "file": "plantilla 1 1 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "134 - Flags"
+              "title": "plantilla 1 1 1"
+            }
+          },
+          {
+            "id": "4d543090eca83473",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General Skills/143 - substitution2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "143 - substitution2"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -245,15 +259,26 @@
       "bases:Create new base": false
     }
   },
-  "active": "d03b9fb17475a899",
+  "active": "4d543090eca83473",
   "lastOpenFiles": [
+    "General Skills/095 - SSTI1.md",
+    "General Skills/144 - Vigenere.md",
+    "General Skills/143 - substitution2.md",
+    "General Skills/142 - substitution1.md",
+    "General Skills/141 - substitution0.md",
+    "General Skills/140 - rail-fence.md",
+    "General Skills/139 - morse-code.md",
+    "General Skills/138 - hashcrack.md",
+    "General Skills/137 - EVEN RSA CAN BE BROKEN.md",
+    "General Skills/136 - credstuff.md",
+    "General Skills/135 - Crack the Power.md",
+    "plantilla 1 1 1.md",
+    "README.md",
+    "General Skills/134 - Flags.md",
     "General Skills/132 - HideToSee.md",
     "General Skills/133 - ReadMyCert.md",
-    "General Skills/134 - Flags.md",
     "General Skills/131 - basic-mod1.md",
     "General Skills/130 - Pixelated.md",
-    "README.md",
-    "plantilla 1 1 1.md",
     "General Skills/129 - b00tl3gRSA3.md",
     "General Skills/128 - b00tl3gRSA2.md",
     "General Skills/127 - Mind your Ps and Qs.md",
@@ -262,16 +287,6 @@
     "General Skills/124 - RED.md",
     "General Skills/123 - Secret of the Polyglot.md",
     "General Skills/122 - CanYouSee.md",
-    "General Skills/121 - Scan Suprise.md",
-    "General Skills/120 - hideme.md",
-    "General Skills/108 - The numbers.md",
-    "General Skills/119 - Redaction gone wrong.md",
-    "General Skills/118 - St3g0.md",
-    "General Skills/117 - information.md",
-    "General Skills/116 - rsa-pop-quiz.md",
-    "General Skills/115 - interencdec.md",
-    "General Skills/014 - Static ain't always noise.md",
-    "General Skills/114 - waves over lambda.md",
     "git",
     "General Skills/Untitled",
     "General Skills",
