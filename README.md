@@ -149,6 +149,11 @@
 - substitution1
 - substitution2
 - Vigenere
+- vault-door-training
+- vault-door-1
+- vault-door-3
+- vault-door-4
+- vault-door-5
 
 
 
