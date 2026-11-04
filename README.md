@@ -153,27 +153,33 @@
 - vault-door-1
 - vault-door-3
 - vault-door-4
-- vault-door-5
-- - Lookey here
-- Enhance!
-- Riddle Registry
-- Hidden in plainsight
-- Flag in Flame
-- Corrupted file
-- Binary Digits
-- Timeline 0
-- Timeline 1
-- DISKO 4
-- basic-mod2
-- rotation
-- StegoRSA
-- Shared Secrets
-- transposition-trial
-- Custom encryption
-- Timestamped Secrets
-- Small Trouble
-- Related Messages
-- rsa_oracle
+* vault-door-5
+* Lookey here
+* Enhance!
+* Riddle Registry
+* Hidden in plainsight
+* Flag in Flame
+* Corrupted file
+* Binary Digits
+* Timeline 0
+* Timeline 1
+* DISKO 4
+* basic-mod2
+* rotation
+* StegoRSA
+* Shared Secrets
+* transposition-trial
+* Custom encryption
+* Timestamped Secrets
+* Small Trouble
+* Related Messages
+* rsa_oracle
+* Safe Opener 2
+* timer
+* Picker I
+* Picker II
+* Picker III
+* Picker IV
 
 
 
