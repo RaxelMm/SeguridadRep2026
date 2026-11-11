@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Skills/180 - Need For Speed.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "180 - Need For Speed"
+              "title": "README"
             }
           }
         ],
@@ -275,9 +275,9 @@
   },
   "active": "354e79bbc783321f",
   "lastOpenFiles": [
+    "General Skills/180 - Need For Speed.md",
     "General Skills/179 - reverse_cipher.md",
     "General Skills/178 - GDB Test Drive.md",
-    "General Skills/180 - Need For Speed.md",
     "plantilla 1 1 1 1.md",
     "General Skills/175 - asm1.md",
     "General Skills/176 - asm2.md",
